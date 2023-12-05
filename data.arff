@@ -1,0 +1,44 @@
+@RELATION trab
+
+@ATTRIBUTE altura NUMERIC
+@ATTRIBUTE tamanho_mão REAL
+@ATTRIBUTE idade NUMERIC
+@ATTRIBUTE sexo {Masculino,Feminino}
+
+
+@DATA
+
+177,20.8,27,Masculino
+169,18,19,Masculino
+155,18,22,Feminino
+194,19,21,Masculino
+168,17.9,34,Feminino
+161,16,28,Feminino
+180,20,28,Masculino
+170,18.5,35,Masculino
+165,18.5,19,Feminino
+166,18.5,25,Feminino
+159,17,24,Feminino
+173,18,19,Feminino
+161,18,14,Masculino
+180,19.8,21,Masculino
+170,17.7,27,Masculino
+165,16,20,Feminino
+154,17.5,19,Feminino
+170,16.5,22,Masculino
+171,16,20,Masculino
+174,19.5,18,Masculino
+178,21.8,52,Masculino
+177,19,21,Masculino
+179,18.5,20,Masculino
+167,17.8,18,Feminino
+180,18,21,Masculino
+159,12,21,Feminino
+161,16,23,Feminino
+176,19.5,24,Masculino
+181,19,24,Masculino
+160,17,25,Masculino
+172,18.8,23,Masculino
+190,21.5,27,Masculino
+130,15,9,Masculino
+185,20,36,Masculino
